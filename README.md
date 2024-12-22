@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Navin!  
 
-![Banner Image](https://via.placeholder.com/1000x200.png?text=Hello+World+%7C+UI%2FUX+Designer+%26+Frontend+Developer)  
+![Banner Image](https://github.com/Navin-2001/Navin-2001/blob/images/github.png)  
 
 *Designing seamless experiences and building functional interfaces to bring ideas to life.*  
 
